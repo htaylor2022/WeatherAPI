@@ -30,7 +30,7 @@ import urllib.parse
 
 
 
-
+# SAMPLE KEY, this key will not work as it has been deactivated
 apiKey = 'df452443b52dabf2b8ee362f5e9382b9' # INPUT YOUR OWN API KEY HERE
 
 
